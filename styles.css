@@ -269,6 +269,7 @@ input:checked + .slider:before {
     align-items: center;
     text-align: left;
     margin-bottom: 20px;
+    margin-left: 42px;
 }
 
 .arrow-img {
@@ -301,7 +302,7 @@ input:checked + .slider:before {
     color: var(--Dark-Grayish-Blue-Text);
     font-size: 1.5vh;
     font-weight: 700;
-    
+    margin-top: 12px;
 }
 
 .today {
@@ -376,7 +377,7 @@ h3 {
 
 .arrow-red {
     
-    margin-top: 80%;
+    margin-top: 8px;
     margin-right: 10%;
     max-width: 60%;
     max-height: 50%;
@@ -389,7 +390,7 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 19px;
+    margin-top: 8px;
     margin-right: 10%;
     max-width: 60%;
     max-height: 50%;
