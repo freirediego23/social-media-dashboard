@@ -269,7 +269,7 @@ input:checked + .slider:before {
     align-items: center;
     text-align: left;
     margin-bottom: 20px;
-    margin-left: 42px;
+    margin-left: 30px;
 }
 
 .arrow-img {
@@ -377,7 +377,7 @@ h3 {
 
 .arrow-red {
     
-    margin-top: 8px;
+    margin-top: 18px;
     margin-right: 10%;
     max-width: 60%;
     max-height: 50%;
@@ -390,7 +390,7 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 8px;
+    margin-top: 18px;
     margin-right: 10%;
     max-width: 60%;
     max-height: 50%;
